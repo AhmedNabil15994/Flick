@@ -1,0 +1,28 @@
+{
+    "name": "nwidart/influencer",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Influencer\\Providers\\InfluencerServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Influencer\\": ""
+        },
+        "classmap": [
+            "Database/Seeders"
+        ]
+    }
+}

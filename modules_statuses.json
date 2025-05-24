@@ -1,0 +1,22 @@
+{
+    "Core": true,
+    "Apps": true,
+    "Category": true,
+    "Areas": true,
+    "Catalog": true,
+    "Authentication": true,
+    "Authorization": true,
+    "DeviceToken": true,
+    "Page": true,
+    "Setting": true,
+    "Transaction": true,
+    "User": true,
+    "Log": true,
+    "Area": true,
+    "Ensaan": true,
+    "Slider": true,
+    "Package": true,
+    "Influencer": true,
+    "CampaignInfluencer": true,
+    "Company": true
+}

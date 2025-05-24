@@ -1,0 +1,15 @@
+{
+    "name": "Influencer",
+    "alias": "influencer",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Influencer\\Providers\\InfluencerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}
